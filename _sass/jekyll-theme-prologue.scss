@@ -646,7 +646,7 @@
     }
 	#main {
 		margin-left: 375px;
-		> section, div {
+		> section, div.ais-hits--item {
 			text-align: center;
 			direction: rtl;
 		}
@@ -660,7 +660,7 @@
 				}
 			}
 		}
-		> section, article {
+		> section, article, div.ais-hits--item {
 			margin: 0;
 			overflow: hidden;
 			padding: 4em 0;
