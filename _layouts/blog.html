@@ -5,6 +5,10 @@ layout: default
 {%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
+<div id="search-searchbar"></div>
+
+  <div class="post-list" id="search-hits">
+
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
@@ -22,4 +26,6 @@ layout: default
 		{%- assign _content = _excerpt | append: _link -%}
 		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
 	{%- endfor -%}
+	</div>
+	  {%- include algolia.html -%}
 </div>
