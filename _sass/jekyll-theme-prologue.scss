@@ -1008,7 +1008,7 @@
 			body {
 				&.header-visible {
 					#main {
-						@include vendor('transform', 'translateX(#{_size(header)})');
+						@include vendor('transform', 'translateX(#{_size(header) * -1})');
 					}
 
 					#headerToggle {
