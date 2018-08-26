@@ -494,7 +494,7 @@
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
-		left: 0;
+		right: 0;
 		overflow-y: auto;
 		position: fixed;
 		text-align: right;
@@ -613,7 +613,7 @@
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
+		margin-right: 375px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
@@ -646,7 +646,7 @@
         margin-top: 50px;
     }
 	#main {
-		margin-left: 375px;
+		margin-right: 375px;
 		> section, div.ais-hits--item {
 			text-align: center;
 			direction: rtl;
@@ -743,13 +743,13 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 300px;
+				margin-right: 300px;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 300px;
+				margin-right: 300px;
 			}
 
 	}
@@ -853,13 +853,13 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 20%;
+				margin-right: 20%;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 20%;
+				margin-right: 20%;
 			}
 
 	}
@@ -919,7 +919,7 @@
 				-webkit-overflow-scrolling: touch;
 				display: block;
 				height: 100%;
-				left: 0;
+				right: 0;
 				overflow-y: auto;
 				position: fixed;
 				top: 0;
@@ -965,7 +965,7 @@
 				@include vendor('transition', 'transform #{_duration(header)} ease');
 				display: block;
 				height: 2.25em;
-				left: 0;
+				right: 0;
 				position: fixed;
 				top: 0;
 				width: 3.25em;
@@ -973,7 +973,7 @@
 
 				.toggle {
 					position: absolute;
-					left: 0;
+					right: 0;
 					top: 0;
 					width: 100%;
 					height: 100%;
@@ -1012,7 +1012,7 @@
 					}
 
 					#headerToggle {
-						@include vendor('transform', 'translateX(#{_size(header)})');
+						@include vendor('transform', 'translateX(#{_size(header) * -1})');
 					}
 
 					#header {
@@ -1024,7 +1024,7 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 0;
+				margin-right: 0;
 			}
 
 		/* Main */
@@ -1033,7 +1033,7 @@
 				@include vendor('backface-visibility', 'hidden');
 				@include vendor('transition', 'transform #{_duration(header)} ease');
 				padding-bottom: 1px;
-				margin-left: 0;
+				margin-right: 0;
 
 				> section, article {
 					padding: 3em 0;
