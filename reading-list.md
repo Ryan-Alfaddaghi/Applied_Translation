@@ -1254,20 +1254,7 @@ order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/7231848.D_K_Holmberg">D.K. Holmberg</a>
           </div>
       </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Shade of Vampire (A Shade Of Vampire, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1461089973?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Shade of Vampire" border="0" src="https://images.gr-assets.com/books/1363383182m/17229631.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1461089973?utm_medium=api&amp;utm_source=custom_widget">A Shade of Vampire</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
+
   <br style="clear: both"/>
   <center>
     <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://www.goodreads.com/images/widget/widget_logo.gif" /></a>
