@@ -12,8 +12,6 @@ const search = instantsearch({
     if (helper.state.query.length === 0) {
         return; // do not trigger search
     }
-
-    helper.search(); // trigger search
   }
 });
 const hitTemplate = function(hit) {
@@ -65,7 +63,7 @@ search.addWidget(
   })
 );
 
-search.start();
+helper.search(); // trigger search
 </script>
 
 <style>
