@@ -946,20 +946,6 @@ order: 3
       </div>
       <div class="gr_custom_each_container">
           <div class="gr_custom_book_container">
-            <a title="Come Away with Me (With Me in Seattle, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1822732057?utm_medium=api&amp;utm_source=custom_widget"><img alt="Come Away with Me" border="0" src="https://images.gr-assets.com/books/1350383614m/16070521.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="liked it"><img alt="liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1822732057?utm_medium=api&amp;utm_source=custom_widget">Come Away with Me</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6550037.Kristen_Proby">Kristen Proby</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
             <a title="SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper" rel="nofollow" href="https://www.goodreads.com/review/show/1809154308?utm_medium=api&amp;utm_source=custom_widget"><img alt="SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper" border="0" src="https://images.gr-assets.com/books/1442949773m/9739365.jpg" /></a>
           </div>
           <div class="gr_custom_rating">
@@ -1086,34 +1072,6 @@ order: 3
       </div>
       <div class="gr_custom_each_container">
           <div class="gr_custom_book_container">
-            <a title="Dark Lover (Black Dagger Brotherhood, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1546986493?utm_medium=api&amp;utm_source=custom_widget"><img alt="Dark Lover" border="0" src="https://images.gr-assets.com/books/1296247208m/6357135.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1546986493?utm_medium=api&amp;utm_source=custom_widget">Dark Lover</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/20248.J_R_Ward">J.R. Ward</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Truce (Neighbor from Hell, #4)" rel="nofollow" href="https://www.goodreads.com/review/show/1518136232?utm_medium=api&amp;utm_source=custom_widget"><img alt="Truce" border="0" src="https://images.gr-assets.com/books/1482713495m/19438219.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1518136232?utm_medium=api&amp;utm_source=custom_widget">Truce</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4586597.R_L_Mathewson">R.L. Mathewson</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
             <a title="The Great Gatsby" rel="nofollow" href="https://www.goodreads.com/review/show/1519365698?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Great Gatsby" border="0" src="https://images.gr-assets.com/books/1356107649m/6519719.jpg" /></a>
           </div>
           <div class="gr_custom_rating">
@@ -1124,62 +1082,6 @@ order: 3
           </div>
           <div class="gr_custom_author">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald">F. Scott Fitzgerald</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Gabriel's Inferno (Gabriel's Inferno, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1507976976?utm_medium=api&amp;utm_source=custom_widget"><img alt="Gabriel's Inferno" border="0" src="https://images.gr-assets.com/books/1343961761m/11175681.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1507976976?utm_medium=api&amp;utm_source=custom_widget">Gabriel's Inferno</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4562483.Sylvain_Reynard">Sylvain Reynard</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Wicked (A Wicked Trilogy, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1500571063?utm_medium=api&amp;utm_source=custom_widget"><img alt="Wicked" border="0" src="https://images.gr-assets.com/books/1410783827m/22895264.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1500571063?utm_medium=api&amp;utm_source=custom_widget">Wicked</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4476934.Jennifer_L_Armentrout">Jennifer L. Armentrout</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Shade of Novak (A Shade of Vampire, #8)" rel="nofollow" href="https://www.goodreads.com/review/show/1476112537?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Shade of Novak" border="0" src="https://images.gr-assets.com/books/1437469520m/23790992.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1476112537?utm_medium=api&amp;utm_source=custom_widget">A Shade of Novak</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Checkmate (Neighbor from Hell, #3)" rel="nofollow" href="https://www.goodreads.com/review/show/1487836005?utm_medium=api&amp;utm_source=custom_widget"><img alt="Checkmate" border="0" src="https://images.gr-assets.com/books/1439989395m/23286439.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1487836005?utm_medium=api&amp;utm_source=custom_widget">Checkmate</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4586597.R_L_Mathewson">R.L. Mathewson</a>
           </div>
       </div>
       <div class="gr_custom_each_container">
@@ -1198,20 +1100,6 @@ order: 3
       </div>
       <div class="gr_custom_each_container">
           <div class="gr_custom_book_container">
-            <a title="Kade's Dark Embrace (Immortals of New Orleans, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1605790326?utm_medium=api&amp;utm_source=custom_widget"><img alt="Kade's Dark Embrace" border="0" src="https://images.gr-assets.com/books/1333024189m/13564666.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="liked it"><img alt="liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1605790326?utm_medium=api&amp;utm_source=custom_widget">Kade's Dark Embrace</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/5785692.Kym_Grosso">Kym Grosso</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
             <a title="Tricked (The Iron Druid Chronicles, #4)" rel="nofollow" href="https://www.goodreads.com/review/show/1767398448?utm_medium=api&amp;utm_source=custom_widget"><img alt="Tricked" border="0" src="https://images.gr-assets.com/books/1324455119m/12700306.jpg" /></a>
           </div>
           <div class="gr_custom_rating">
@@ -1222,20 +1110,6 @@ order: 3
           </div>
           <div class="gr_custom_author">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/4414255.Kevin_Hearne">Kevin Hearne</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Halfway to the Grave (Night Huntress, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1805429253?utm_medium=api&amp;utm_source=custom_widget"><img alt="Halfway to the Grave" border="0" src="https://images.gr-assets.com/books/1373855613m/1421990.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1805429253?utm_medium=api&amp;utm_source=custom_widget">Halfway to the Grave</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/669810.Jeaniene_Frost">Jeaniene Frost</a>
           </div>
       </div>
       <div class="gr_custom_each_container">
@@ -1266,7 +1140,6 @@ order: 3
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/4414255.Kevin_Hearne">Kevin Hearne</a>
           </div>
           <div class="gr_custom_review">
-            
           </div>
       </div>
       <div class="gr_custom_each_container">
@@ -1365,118 +1238,6 @@ order: 3
           </div>
           <div class="gr_custom_author">
             by <a rel="nofollow" href="https://www.goodreads.com/author/show/4414255.Kevin_Hearne">Kevin Hearne</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Perfection (Neighbor from Hell, #2)" rel="nofollow" href="https://www.goodreads.com/review/show/1484532910?utm_medium=api&amp;utm_source=custom_widget"><img alt="Perfection" border="0" src="https://images.gr-assets.com/books/1328322523m/12983777.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1484532910?utm_medium=api&amp;utm_source=custom_widget">Perfection</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4586597.R_L_Mathewson">R.L. Mathewson</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="Playing for Keeps (Neighbor from Hell, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/1480041077?utm_medium=api&amp;utm_source=custom_widget"><img alt="Playing for Keeps" border="0" src="https://images.gr-assets.com/books/1406585295m/11381643.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1480041077?utm_medium=api&amp;utm_source=custom_widget">Playing for Keeps</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4586597.R_L_Mathewson">R.L. Mathewson</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Break of Day (A Shade of Vampire, #7)" rel="nofollow" href="https://www.goodreads.com/review/show/1475087084?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Break of Day" border="0" src="https://images.gr-assets.com/books/1412890499m/22708808.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1475087084?utm_medium=api&amp;utm_source=custom_widget">A Break of Day</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Gate of Night (A Shade of Vampire, #6)" rel="nofollow" href="https://www.goodreads.com/review/show/1474175005?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Gate of Night" border="0" src="https://images.gr-assets.com/books/1394592827m/21428908.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1474175005?utm_medium=api&amp;utm_source=custom_widget">A Gate of Night</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Blaze of Sun (A Shade of Vampire, #5)" rel="nofollow" href="https://www.goodreads.com/review/show/1470274897?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Blaze of Sun" border="0" src="https://images.gr-assets.com/books/1384891654m/18864733.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1470274897?utm_medium=api&amp;utm_source=custom_widget">A Blaze of Sun</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Shadow of Light (A Shade of Vampire, #4)" rel="nofollow" href="https://www.goodreads.com/review/show/1467742324?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Shadow of Light" border="0" src="https://images.gr-assets.com/books/1384768100m/18813530.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1467742324?utm_medium=api&amp;utm_source=custom_widget">A Shadow of Light</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Castle of Sand (A Shade of Vampire, #3)" rel="nofollow" href="https://www.goodreads.com/review/show/1467693954?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Castle of Sand" border="0" src="https://images.gr-assets.com/books/1368555992m/17925397.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1467693954?utm_medium=api&amp;utm_source=custom_widget">A Castle of Sand</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container">
-          <div class="gr_custom_book_container">
-            <a title="A Shade of Blood (A Shade of Vampire, #2)" rel="nofollow" href="https://www.goodreads.com/review/show/1465708114?utm_medium=api&amp;utm_source=custom_widget"><img alt="A Shade of Blood" border="0" src="https://images.gr-assets.com/books/1365199807m/17733861.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating">
-            <span class=" staticStars" title="really liked it"><img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/1465708114?utm_medium=api&amp;utm_source=custom_widget">A Shade of Blood</a>
-          </div>
-          <div class="gr_custom_author">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6860531.Bella_Forrest">Bella Forrest</a>
           </div>
       </div>
       <div class="gr_custom_each_container">
