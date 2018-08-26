@@ -914,7 +914,7 @@
 
 			#header {
 				@include vendor('backface-visibility', 'hidden');
-				@include vendor('transform', 'translateX(#{_size(header) * -1})');
+				@include vendor('transform', 'translateX(#{_size(header)})');
 				@include vendor('transition', ('transform #{_duration(header)} ease'));
 				-webkit-overflow-scrolling: touch;
 				display: block;
