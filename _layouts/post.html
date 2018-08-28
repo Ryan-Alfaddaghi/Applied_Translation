@@ -30,7 +30,7 @@ layout: default
 				</p>
 <ul>
 {% for category in page.categories %}
-<li><a href="{{ site.url }}/category/{{ category | url_encode | append:".html"}}  ">{{ category }}</a></li>
+<li><a href="{{ site.url }}/category/{{ category | slugify | append:".html"}}  ">{{ category }}</a></li>
 {% endfor %}
 </ul>
 			</header>
