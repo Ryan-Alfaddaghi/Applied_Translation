@@ -10,8 +10,8 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{%- if page.author %}{{ page.author }},{%- endif -%} {%- assign m = page.date | date: "%-m" -%}
-{{- page.date | date: "%-d" -}}
+				<p>{%- if page.author %}{{ page.author }},{%- endif -%} {%- assign m = page.date | date: " %-m " -%}
+{{- page.date | date: " %-d " -}}
 {%- case m -%}
   {%- when '1' -%}يناير
   {%- when '2' -%}فبراير
@@ -26,7 +26,7 @@ layout: default
   {%- when '11' -%}نوفمبر
   {%- when '12' -%}ديسمبر
 {%- endcase -%}
-{{- page.date | date: "%Y" -}}
+{{- page.date | date: " %Y " -}}
 				</p>
 			</header>
 	    {{- content | toc -}}
