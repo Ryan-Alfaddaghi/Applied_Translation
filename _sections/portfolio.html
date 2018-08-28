@@ -16,8 +16,3 @@ order: 2
 </br>
 <p>أو يمكنك اختيار أحد المواضيع التالية وستظهر لك كل المقالات المناطة</p>
 
-<ul>
-{% for category in site.categories %}
-<li><a href="{{ site.url }}/category/{{ category | slugify | append:".html"}}">{{ category }}</a></li>
-{% endfor %}
-</ul>
