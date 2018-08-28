@@ -17,7 +17,24 @@ layout: default
 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
-			{% if _post.author -%}{{- _post.author }} | {% endif %}{{- page.date | date: "%Y-%m-%d" -}}
+			{% if _post.author -%}{{- _post.author }} | {% endif %}
+			{%- assign m = _post.date | date: "%-m" -%}
+{{- _post.date | date: " %-d " -}}
+{%- case m -%}
+  {%- when '1' -%}يناير
+  {%- when '2' -%}فبراير
+  {%- when '3' -%}مارس
+  {%- when '4' -%}أبريل
+  {%- when '5' -%}مايو
+  {%- when '6' -%}يونيو
+  {%- when '7' -%}يوليو
+  {%- when '8' -%}أغسطس
+  {%- when '9' -%}سبتمبر
+  {%- when '10' -%}أكتوبر
+  {%- when '11' -%}نوفمبر
+  {%- when '12' -%}ديسمبر
+{%- endcase -%}
+{{- _post.date | date: " %Y " -}}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
