@@ -28,11 +28,11 @@ layout: default
 {%- endcase -%}
 {{- page.date | date: " %Y " -}}
 				</p>
- <div class="tags-expo-list">
-    {% for category in post.categories %}
-    <a href="/category/{{ category[0] | slugify | append: ".html"}}" class="post-tag">{{ category[0] }}</a>
-    {% endfor %}
-  </div>
+<ul>
+{% for category in page.categories %}
+<li><a href="{{/category/{{ category | url_encode }} | append:".html" ">{{ category }}</a></li>
+{% endfor %}
+</ul>
 			</header>
 	    {{- content | toc -}}
 	  </div>
