@@ -19,7 +19,7 @@ order: 2
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
-      <li><a href="#{{ category }}">{{ category | capitalize }} "عدد المقالات" ({{ site.tags[category].size }})</a></li>
+      <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
     {% endfor %}
   {% else %}
     {% for category in categories_list %}
