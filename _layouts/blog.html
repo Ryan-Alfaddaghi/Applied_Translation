@@ -18,7 +18,23 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
-			{{- _post.date | date_to_long_string -}}
+			{%- assign m = page.date | date: "%-m" -%}
+{{- page.date | date: " %-d " -}}
+{%- case m -%}
+  {%- when '1' -%}يناير
+  {%- when '2' -%}فبراير
+  {%- when '3' -%}مارس
+  {%- when '4' -%}أبريل
+  {%- when '5' -%}مايو
+  {%- when '6' -%}يونيو
+  {%- when '7' -%}يوليو
+  {%- when '8' -%}أغسطس
+  {%- when '9' -%}سبتمبر
+  {%- when '10' -%}أكتوبر
+  {%- when '11' -%}نوفمبر
+  {%- when '12' -%}ديسمبر
+{%- endcase -%}
+{{- page.date | date: " %Y " -}}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
