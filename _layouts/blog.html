@@ -18,8 +18,7 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
-			{%- assign m = page.date | date: "%-m" -%}
-{{- page.date | date: " %-d " -}}
+			{{- page.date | date: " %-d " -}}{%- assign m = page.date | date: "%-m" -%}
 {%- case m -%}
   {%- when '1' -%}يناير
   {%- when '2' -%}فبراير
