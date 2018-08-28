@@ -28,17 +28,11 @@ layout: default
 {%- endcase -%}
 {{- page.date | date: " %Y " -}}
 				</p>
-				<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="/category/{{ category[0] | slugify | append: ".html"}}" class="post-tag">{{ category[0] }}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+ <div class="tags-expo-list">
+    {% for category in post.categories %}
+    <a href="/category/{{ category[0] | slugify | append: ".html"}}" class="post-tag">{{ category[0] }}</a>
+    {% endfor %}
+  </div>
 			</header>
 	    {{- content | toc -}}
 	  </div>
