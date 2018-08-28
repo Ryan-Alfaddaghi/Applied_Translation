@@ -10,23 +10,23 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}يناير
-  {% when '2' %}فبراير
-  {% when '3' %}مارس
-  {% when '4' %}أبريل
-  {% when '5' %}مايو
-  {% when '6' %}يونيو
-  {% when '7' %}يوليو
-  {% when '8' %}أغسطس
-  {% when '9' %}سبتمبر
-  {% when '10' %}أكتوبر
-  {% when '11' %}نوفمبر
-  {% when '12' %}ديسمبر
-{% endcase %}
-{{ page.date | date: "%Y" }}
+				<p>{%- if page.author %}{{ page.author }}, {%- assign m = page.date | date: "%-m" -%}
+{{- page.date | date: "%-d" -}}
+{%- case m -%}
+  {%- when '1' -%}يناير
+  {%- when '2' -%}فبراير
+  {%- when '3' -%}مارس
+  {%- when '4' -%}أبريل
+  {%- when '5' -%}مايو
+  {%- when '6' -%}يونيو
+  {%- when '7' -%}يوليو
+  {%- when '8' -%}أغسطس
+  {%- when '9' -%}سبتمبر
+  {%- when '10' -%}أكتوبر
+  {%- when '11' -%}نوفمبر
+  {%- when '12' -%}ديسمبر
+{%- endcase -%}
+{{- page.date | date: "%Y" -}}
 				</p>
 			</header>
 	    {{- content | toc -}}
