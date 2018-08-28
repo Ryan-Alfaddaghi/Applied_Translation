@@ -15,49 +15,14 @@ order: 2
 
 </br>
 <p>أو يمكنك اختيار أحد المواضيع التالية وستظهر لك كل المقالات المناطة</p>
-<h2>Categories</h2>
-<ul>
-{% assign categories_list = site.categories %}
-  {% if categories_list.first[0] == null %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
-    {% endfor %}
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
   {% else %}
-    {% for category in categories_list %}
-      <li><a href="#{{ category[0] | downcase }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
-    {% endfor %}
+    {% assign categories = page.categories %}
   {% endif %}
-{% assign categories_list = nil %}
-</ul>
-
-{% for category in site.categories %}
-  <h3 id="{{ category[0] }}">{{ category[0] | capitalize }}</h3>
-  <ul>
-    {% assign pages_list = category[1] %}
-    {% for post in pages_list %}
-      {% if post.title != null %}
-      {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {%- assign m = _post.date | date: "%-m" -%}
-{{- _post.date | date: " %-d " -}}
-{%- case m -%}
-  {%- when '1' -%}يناير
-  {%- when '2' -%}فبراير
-  {%- when '3' -%}مارس
-  {%- when '4' -%}أبريل
-  {%- when '5' -%}مايو
-  {%- when '6' -%}يونيو
-  {%- when '7' -%}يوليو
-  {%- when '8' -%}أغسطس
-  {%- when '9' -%}سبتمبر
-  {%- when '10' -%}أكتوبر
-  {%- when '11' -%}نوفمبر
-  {%- when '12' -%}ديسمبر
-{%- endcase -%}
-{{- _post.date | date: " %Y " -}}</a></li>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
