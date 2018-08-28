@@ -16,8 +16,8 @@ order: 2
 </br>
 <p>أو يمكنك اختيار أحد المواضيع التالية وستظهر لك كل المقالات المناطة</p>
 
- <div class="tags-expo-list">
-    {% for category in site.categories %}
-    <a href="/category/{{ category[0] | slugify | append: ".html"}}" class="post-tag">{{ category[0] }}</a>
-    {% endfor %}
-  </div>
+<ul>
+{% for category in site.categories %}
+<li><a href="{{ site.url }}/category/{{ category | slugify | append:".html"}}  ">{{ category }}</a></li>
+{% endfor %}
+</ul>
