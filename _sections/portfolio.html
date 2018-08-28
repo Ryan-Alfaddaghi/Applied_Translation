@@ -37,7 +37,23 @@ order: 2
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {%- assign m = _post.date | date: "%-m" -%}
+{{- _post.date | date: " %-d " -}}
+{%- case m -%}
+  {%- when '1' -%}يناير
+  {%- when '2' -%}فبراير
+  {%- when '3' -%}مارس
+  {%- when '4' -%}أبريل
+  {%- when '5' -%}مايو
+  {%- when '6' -%}يونيو
+  {%- when '7' -%}يوليو
+  {%- when '8' -%}أغسطس
+  {%- when '9' -%}سبتمبر
+  {%- when '10' -%}أكتوبر
+  {%- when '11' -%}نوفمبر
+  {%- when '12' -%}ديسمبر
+{%- endcase -%}
+{{- _post.date | date: " %Y " -}}</a></li>
       {% endif %}
       {% endif %}
     {% endfor %}
