@@ -16,12 +16,4 @@ order: 2
 </br>
 <p>أو يمكنك اختيار أحد المواضيع التالية وستظهر لك كل المقالات المناطة</p>
 
-<ul>
-
-    {% for post in site.categories[page.category] %}
-    <li><a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a></li>
-{% endfor %}
-
-</ul>
+{% include category.html %}
