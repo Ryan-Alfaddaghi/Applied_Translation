@@ -1115,7 +1115,20 @@
 			}
 
 	}
+	/* TOC */
 	
+	.section-nav {
+	background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 70%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+	  >ul, li {
+	      list-style: outside none none !important;
+	  }
     /* customize your Goodreads widget container here*/
   .gr_custom_container {
     /* customize your Goodreads widget container here*/
