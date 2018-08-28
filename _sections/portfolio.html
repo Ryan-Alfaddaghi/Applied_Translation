@@ -18,6 +18,6 @@ order: 2
 
  <div class="tags-expo-list">
     {% for category in site.categories %}
-    <a href="#{{ category[0] | slugify }}" class="post-tag">{{ category[0] }}</a>
+    <a href="/category/{{ category[0] | slugify }}" class="post-tag">{{ category[0] }}</a>
     {% endfor %}
   </div>
