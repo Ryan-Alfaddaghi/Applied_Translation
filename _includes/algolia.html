@@ -13,7 +13,7 @@ const search = instantsearch({
 const hitTemplate = function(hit) {
   let date = '';
   if (hit.date) {
-    date = moment.unix(hit.date).format('M/d/yyyy');
+    date = moment.unix(hit.date).format('M/d/YYYY');
   }
 
   let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
