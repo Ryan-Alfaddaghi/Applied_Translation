@@ -45,5 +45,42 @@
   <script src="{{- 'assets/js/util.js' | relative_url -}}" defer></script>
   <!--[if lte IE 8]><script src="{{- 'assets/js/ie/respond.min.js' | relative_url -}}" defer></script><![endif]-->
   <script src="{{- 'assets/js/main.js' | relative_url -}}" defer></script>
+  <script>
+ 
+jQuery(document).ready(function() {
+ 
+var offset = 250;
+ 
+var duration = 300;
+ 
+jQuery(window).scroll(function() {
+ 
+if (jQuery(this).scrollTop() > offset) {
+ 
+jQuery(‘.back-to-top’).fadeIn(duration);
+ 
+} else {
+ 
+jQuery(‘.back-to-top’).fadeOut(duration);
+ 
+}
+ 
+});
+ 
+ 
+ 
+jQuery(‘.back-to-top’).click(function(event) {
+ 
+event.preventDefault();
+ 
+jQuery(‘html, body’).animate({scrollTop: 0}, duration);
+ 
+return false;
+ 
+})
+ 
+});
+ 
+</script>
 
 </head>
