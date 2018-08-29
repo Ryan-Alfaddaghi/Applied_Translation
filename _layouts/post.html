@@ -28,6 +28,7 @@ layout: default
 {%- endcase -%}
 {{- page.date | date: " %Y " -}}
 				</p>
+<p>المواضيع</p>
 <ul>
 {% for category in page.categories %}
 <li><a href="{{ site.url }}/category/{{ category | slugify | append:".html"}}  ">{{ category }}</a></li>
