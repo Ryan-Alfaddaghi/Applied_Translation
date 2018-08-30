@@ -1172,22 +1172,27 @@
     }
     
     /*Page Search*/
-    
+    input{
+        text-align: center;
+    }
     .light-table-filter{
      border-radius: 2em;
      width:100%;
     }
     ::placeholder {
     text-align: center;
-}
-
-:-ms-input-placeholder { /* Internet Explorer 10-11 */
-   text-align: center;
-}
-
-::-ms-input-placeholder { /* Microsoft Edge */
-   text-align: center;
-}
+    }
+    
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+       text-align: center;
+    }
+    
+    ::-ms-input-placeholder { /* Microsoft Edge */
+       text-align: center;
+    }
+    .ais-search-box--powered-by{
+        direction:ltr;
+    }
     /* customize your Goodreads widget container here*/
   .gr_custom_container {
     /* customize your Goodreads widget container here*/
