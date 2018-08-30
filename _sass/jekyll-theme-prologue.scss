@@ -1177,6 +1177,17 @@
      border-radius: 2em;
      width:100%;
     }
+    ::placeholder {
+    text-align: center;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   text-align: center;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+   text-align: center;
+}
     /* customize your Goodreads widget container here*/
   .gr_custom_container {
     /* customize your Goodreads widget container here*/
