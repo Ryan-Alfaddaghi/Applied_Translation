@@ -10,7 +10,7 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{%- if page.author %}{{ page.author }},{%- endif -%} {%- assign m = page.date | date: "%-m" -%}
+				<p>بقلم: {%- if page.author %}{{ page.author }} | {%- endif -%} {%- assign m = page.date | date: "%-m" -%}
 {{- page.date | date: " %-d " -}}
 {%- case m -%}
   {%- when '1' -%}يناير
@@ -28,7 +28,7 @@ layout: default
 {%- endcase -%}
 {{- page.date | date: " %Y " -}}
 				</p>
-<p>المواضيع</p>
+<p>المواضيع : </p>
 <ul>
 {% for category in page.categories %}
 <li><a href="{{ site.url }}/category/{{ category | slugify | append:".html"}}  ">{{ category }}</a></li>
