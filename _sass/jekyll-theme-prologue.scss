@@ -741,7 +741,11 @@
 			}
 		}
 	}
-
+            div.ais-hits--item{
+                &:nth-child(2n+2){
+                    background-color: #81918E;
+                } 
+            }
 /* Wide */
 
 	@include breakpoint(wide) {
