@@ -679,7 +679,7 @@
 				}
 			}
 		}
-		> section, article, div.ais-hits--item {
+		> section, article, {
 			margin: 0;
 			overflow: hidden;
 			padding: 4em 0;
@@ -743,7 +743,7 @@
 	}
             div.ais-hits--item{
                 &:nth-child(2n+2){
-                    background-color: #81918E;
+                    
                 } 
             }
 /* Wide */
