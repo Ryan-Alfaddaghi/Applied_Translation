@@ -743,7 +743,7 @@
 	}
             div.ais-hits--item{
                 &:nth-child(2n+2){
-                    
+                    box-shadow: 0 0 0 1px black;
                 } 
             }
 /* Wide */
