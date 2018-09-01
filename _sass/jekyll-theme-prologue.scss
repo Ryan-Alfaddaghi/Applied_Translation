@@ -1154,9 +1154,9 @@
 	  /*Examples*/
 	  
 	  .example{
-	  box-shadow: 0px 0px 2px 1px inset darkgrey;
-	  -webkit-box-shadow: 0px 0px 2px 1px inset darkgrey;
-	  -moz-box-shadow: 0px 0px 2px 1px inset darkgrey;
+	  box-shadow: inset 0px 0px 2px 1px  darkgrey;
+	  -webkit-box-shadow: inset 0px 0px 2px 1px  darkgrey;
+	  -moz-box-shadow: inset 0px 0px 2px 1px  darkgrey;
     padding: 10px;
     border-radius: 20px;
 	  }
