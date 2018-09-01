@@ -1151,6 +1151,13 @@
 	  .section-nav ul, li {
 	      list-style: outside none none !important;
 	  }
+	  /*Examples*/
+	  
+	  .example{
+	  box-shadow: 0px 0px 2px 1px inset darkgrey;
+    padding: 10px;
+    border-radius: 20px;
+	  }
 /*Back to top*/	  
  
     #back-to-top {
